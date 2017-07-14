@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <server name="server">cgc-rv016.dyndns.org:5425/</server>
+    <server_center name="server_center">cgc-rv016.dyndns.org:5425/</server_center>
+    <server_bw name="server_bw">bw-rv016.dyndns.org:5432/</server_bw>
+    <server_mysql_weight name="server_mysql_weight">bw-rv016.dyndns.org:3306/</server_mysql_weight>
+
+    <db_user name="db_user">cG9zdGdyZXM=</db_user>
+    <db_pass name="db_pass">U3VwZXJBZG1pbjAwNw==</db_pass>
+    <db_center_db_user name="db_center_db_user">Y2djZGJh</db_center_db_user>
+    <db_center_db_pass name="db_center_db_pass">U0FkbWluMDA3</db_center_db_pass>
+    <db_mysql_weight_user name="db_mysql_weight_user">Y2dj</db_mysql_weight_user>
+    <db_mysql_weight_pass name="db_mysql_weight_pass">c3lzdGVtYWRtaW4=</db_mysql_weight_pass>
+
+    <db_erp name="db_erp">CGCDB_PRODUCT_2560</db_erp>
+    <db_bw_erp name="db_bw_erp">BWDB_PRODUCT_2560</db_bw_erp>
+    <db_ma name="db_ma">CALGON_MADB_PRODUCT_2560</db_ma>
+    <db_ma_center name="db_ma_center">CMMS_CENTER_DB</db_ma_center>
+    <db_mysql_weight name="db_mysql_weight">genius_data</db_mysql_weight>
+
+</resources>
